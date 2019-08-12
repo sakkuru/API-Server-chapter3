@@ -1,0 +1,13 @@
+{
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "prettier.tslintIntegration": true,
+  "[typescript]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "typescript.tsc.autoDetect": "off",
+  "grunt.autoDetect": "off",
+  "jake.autoDetect": "off",
+  "gulp.autoDetect": "off",
+  "npm.autoDetect": "off",
+}
