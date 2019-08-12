@@ -2,6 +2,7 @@
   "name": "api-server",
   "version": "1.0.0",
   "description": "",
+  "main": "dist/server.js",
   "scripts": {
     "build": "tsc",
     "debug": "node --nolazy --inspect-brk=9229 -r ts-node/register src/server.ts",
